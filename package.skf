@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-ansi"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "ANSI-цвета и стили для терминала."
+    репозиторий = "github.com/skytech-alt/skyforge-ansi"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
